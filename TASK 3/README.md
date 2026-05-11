@@ -5,7 +5,7 @@ This folder contains Group 18’s work for Task Three in CEF440 - Internet and M
 ## Deliverables
 - Task 3 Report (`Task3_Report.html` or PDF version)
 - Task 3 Presentation (`Task3_Presentation.pptx`)
-- Requirements Gathering Document (`Requirements_Gathering.docx`)
+- Requirements Gathering Document (`Requirements_report.docx`)
 - SRS DOCUMENT
 
 ## Notes
